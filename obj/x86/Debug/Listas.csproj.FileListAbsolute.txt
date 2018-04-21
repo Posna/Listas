@@ -1,0 +1,4 @@
+C:\Users\Posna\Documents\Projects\Listas\Listas\bin\Debug\Listas.exe
+C:\Users\Posna\Documents\Projects\Listas\Listas\bin\Debug\Listas.pdb
+C:\Users\Posna\Documents\Projects\Listas\Listas\obj\x86\Debug\Listas.exe
+C:\Users\Posna\Documents\Projects\Listas\Listas\obj\x86\Debug\Listas.pdb
